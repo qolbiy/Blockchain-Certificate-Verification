@@ -1,0 +1,8 @@
+status	1 Transaction mined and execution succeed
+transaction hash	0x3b4422f692f69ab910939ab41e19c461baf7576de1945e5372efcb9b4d7b0871
+block hash	0xe4c207e5c4edfe52a893fcf4c5fec0977c29eaa85ed02de80b6e91b915249928
+block number	9903924
+contract address	0xdDda8234D69eb05893b773fb5138B9DC5B0eb65c
+from	0x18a437C5f3218CCaf903921a532C1504fcf64777
+to	CertificateRegistry.(constructor)
+transaction cost	1279031 gas 
