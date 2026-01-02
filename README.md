@@ -78,11 +78,13 @@ https://sepolia.etherscan.io/address/0xdDda8234D69eb05893b773fb5138B9DC5B0eb65c
 
 1. Pastikan ekstensi MetaMask telah terpasang pada browser  
 2. Atur jaringan MetaMask ke Ethereum Sepolia Testnet  
-3. Clone atau unduh repository ini  
-4. Buka folder `frontend/`  
-5. Jalankan `index.html` menggunakan Live Server  
-6. Hubungkan wallet MetaMask  
-7. Gunakan fitur penerbitan dan verifikasi sertifikat  
+3. Clone atau unduh repository ini
+4. Buka `https://remix.ethereum.org`, compile dan deploy file smart contract `.sol` yang telah disediakan
+5. Salin `Contract Address` hasil deploy, lalu paste ke file `JavaScript` pada baris paling atas variabel SmartContract
+6. Buka folder `frontend/`  
+7. Jalankan `index.html` menggunakan Live Server  
+8. Hubungkan wallet MetaMask  
+9. Gunakan fitur penerbitan dan verifikasi sertifikat  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
